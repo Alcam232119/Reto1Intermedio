@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 47f89952f0ba408479b79fd13c0517be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pavelt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0c1fb9c6e51879408eae2fae7913b5a, type: 3}
+  - {fileID: 12800000, guid: ee1fb474b2aec9646a82e7aad7788013, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
