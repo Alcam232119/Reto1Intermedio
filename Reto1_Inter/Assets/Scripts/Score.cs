@@ -11,11 +11,9 @@ public class Score : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Puntos"))
+        if (other.CompareTag("Player"))
         {
-            Destroy(other.gameObject);
-            Puntaje++;
-            scoreT.text = "Score: " + Puntaje;
+            gameObject.SetActive(false);
         }
     }
 
