@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Reto 1.unity
     guid: 5f668cc20aff9804f9e2d92e96741922
+  - enabled: 1
+    path: Assets/Scenes/Reto pacman.unity
+    guid: 40df19142a959384ea4f5e2a5a4435f5
   m_configObjects: {}
